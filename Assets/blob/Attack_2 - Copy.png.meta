@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 5762de60f77eb7343abd74adf1c88ad1
+guid: 8ae71d18a7120e24cbdfa82fccb7fcfd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4723107735738678597
-    second: Idle_0
+      213: -5163583998313341519
+    second: Attack_2 - Copy_0
   - first:
-      213: -7385789195546760866
-    second: Idle_1
+      213: 2890479399921581574
+    second: Attack_2 - Copy_1
   - first:
-      213: 3234629978573100161
-    second: Idle_2
+      213: 2843140854837626244
+    second: Attack_2 - Copy_2
   - first:
-      213: 6373048116405451881
-    second: Idle_3
+      213: -557111396605280488
+    second: Attack_2 - Copy_3
   - first:
-      213: 7264182050183361747
-    second: Idle_4
+      213: -5575965067435409205
+    second: Attack_2 - Copy_4
   - first:
-      213: -2834552850196481573
-    second: Idle_5
+      213: -986160575853093857
+    second: Attack_2 - Copy_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 80
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -128,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Idle_0
+      name: Attack_2 - Copy_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 56
-        height: 69
+        x: 30
+        y: 45
+        width: 99
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54d7a982679db8140800000000000000
-      internalID: 4723107735738678597
+      spriteID: 1bd54ac16b34758b0800000000000000
+      internalID: -5163583998313341519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_1
+      name: Attack_2 - Copy_1
       rect:
         serializedVersion: 2
-        x: 128
+        x: 154
         y: 0
         width: 56
-        height: 69
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e596485bbd7608990800000000000000
-      internalID: -7385789195546760866
+      spriteID: 60ef8e623bb0d1820800000000000000
+      internalID: 2890479399921581574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_2
+      name: Attack_2 - Copy_2
       rect:
         serializedVersion: 2
-        x: 256
+        x: 282
         y: 0
-        width: 56
-        height: 69
+        width: 54
+        height: 105
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 184dda4e3d6b3ec20800000000000000
-      internalID: 3234629978573100161
+      spriteID: 4854ffa3b8dd47720800000000000000
+      internalID: 2843140854837626244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_3
+      name: Attack_2 - Copy_3
       rect:
         serializedVersion: 2
-        x: 384
+        x: 412
         y: 0
-        width: 56
-        height: 69
+        width: 68
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96cb1dafe7d917850800000000000000
-      internalID: 6373048116405451881
+      spriteID: 81f3501f22eb448f0800000000000000
+      internalID: -557111396605280488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_4
+      name: Attack_2 - Copy_4
       rect:
         serializedVersion: 2
-        x: 512
+        x: 549
         y: 0
-        width: 56
-        height: 69
+        width: 82
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d4b2fc561f8fc460800000000000000
-      internalID: 7264182050183361747
+      spriteID: bc0868b50513e92b0800000000000000
+      internalID: -5575965067435409205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Idle_5
+      name: Attack_2 - Copy_5
       rect:
         serializedVersion: 2
-        x: 639
-        y: 0
-        width: 56
-        height: 69
+        x: 630
+        y: 19
+        width: 6
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd9b7fa6335a9a8d0800000000000000
-      internalID: -2834552850196481573
+      spriteID: f1c18c06e247052f0800000000000000
+      internalID: -986160575853093857
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c428944bef30d23498feca49511dbc6f
+    spriteID: e19d2c445360db646a54745a6ec70cf8
     internalID: 0
     vertices: []
     indices: 
@@ -271,18 +271,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Idle_0: 4723107735738678597
-      Idle_1: -7385789195546760866
-      Idle_2: 3234629978573100161
-      Idle_3: 6373048116405451881
-      Idle_4: 7264182050183361747
-      Idle_5: -2834552850196481573
+      Attack_2 - Copy_0: -5163583998313341519
+      Attack_2 - Copy_1: 2890479399921581574
+      Attack_2 - Copy_2: 2843140854837626244
+      Attack_2 - Copy_3: -557111396605280488
+      Attack_2 - Copy_4: -5575965067435409205
+      Attack_2 - Copy_5: -986160575853093857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
